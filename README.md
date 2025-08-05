@@ -21,7 +21,7 @@
 2. (`/api/all`) 从 `config/key` 中以**列表(`list`)**的形式返回**所有** API Key。
 
 > [!NOTE]
-> **列表(List)**，是以类似 `['sk1', 'sk2', 'sk3', 'sk4']` 方式返回数据。可参考 [Python 列表(List) | 菜鸟教程](https://www.runoob.com/python/python-lists.html])。
+> **列表(List)**，是以类似 `['sk1', 'sk2', 'sk3', 'sk4']` 方式返回数据。可参考 [Python 列表(List) | 菜鸟教程](https://www.runoob.com/python/python-lists.html)。
 
 ### 部署方法
 
